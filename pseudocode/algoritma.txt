@@ -51,12 +51,7 @@ MULAI
 
 SELESAI
 
-Catatan:
-- Gunakan bahasa yang jelas dan mudah dipahami.
-- Setiap langkah harus berurutan dan logis.
-- Sesuaikan algoritma dengan permasalahan program.
-- Tidak semua program harus menggunakan
-  percabangan dan perulangan.
+
 
 G. KETERANGAN
 
