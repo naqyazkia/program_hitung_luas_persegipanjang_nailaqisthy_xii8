@@ -39,8 +39,6 @@ E. ANALISIS INPUT, PROSES, DAN OUTPUT
 
 F. ALGORITMA / PSEUDOCODE
 
-Tuliskan langkah-langkah algoritma secara
-sistematis dan logis.
 
 MULAI
 
